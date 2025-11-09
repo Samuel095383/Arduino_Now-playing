@@ -9,3 +9,4 @@
  ## TO DO
  [x] lcd display output
  [ ] oled display output
+ [ ] support for esp8266 or esp32 
